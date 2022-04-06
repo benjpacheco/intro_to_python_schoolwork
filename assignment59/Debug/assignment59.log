@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Dev\Visual C++\assignment59\Source.cpp(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  assignment59.vcxproj -> C:\Dev\Visual C++\assignment59\Debug\assignment59.exe

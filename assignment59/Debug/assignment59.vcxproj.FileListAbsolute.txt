@@ -1,0 +1,2 @@
+C:\Dev\Visual C++\assignment59\Debug\assignment59.exe
+C:\Dev\Visual C++\assignment59\Debug\assignment59.pdb

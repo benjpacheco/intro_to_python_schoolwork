@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythonassignments.iml" filepath="$PROJECT_DIR$/.idea/pythonassignments.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/scientificProject/.idea/scientificProject.iml" filepath="$USER_HOME$/PycharmProjects/scientificProject/.idea/scientificProject.iml" />
+    </modules>
+  </component>
+</project>

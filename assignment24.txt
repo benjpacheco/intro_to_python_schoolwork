@@ -1,0 +1,9 @@
+#Name:  Benyir J Pacheco
+#Email: benyir.pacheco60@myhunter.cuny.edu.
+#Date:  Mar 11, 2020
+
+
+
+
+
+out = (not in1 and in2 ) or (in1 and not in2)

@@ -1,0 +1,2 @@
+C:\Dev\Visual C++\finalexam\Debug\finalexam.exe
+C:\Dev\Visual C++\finalexam\Debug\finalexam.pdb

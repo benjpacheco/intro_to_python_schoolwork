@@ -1,0 +1,13 @@
+#Name:  Benyir J Pacheco
+#Email: benyir.pacheco60@myhunter.cuny.edu.
+#Date:  May 7, 2020
+
+
+#Sample program that loops from 0 to 50 by 5
+ADDI $s0, $zero, 0 #set s0 to 0
+ADDI $s1, $zero, 5  
+ADDI $s2, $zero, 50
+AGAIN: ADD $s0, $s1, $s0
+BEQ $s0, $s2, DONE
+J AGAIN
+DONE:  

@@ -1,0 +1,11 @@
+#Name:  Benyir J Pacheco
+#Email: benyir.pacheco60@myhunter.cuny.edu.
+#Date:  April 14, 2020
+#circuits 
+
+
+
+
+out1 = (in1 and in2)
+out2 = (in1 or in2) and not (in1 and in2)
+out3 = not (in2)
